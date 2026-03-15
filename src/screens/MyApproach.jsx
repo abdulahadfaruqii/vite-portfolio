@@ -7,7 +7,7 @@ function MyApproach() {
       <h2 className="text-white mt-3 text-5xl font-bold">
         My <span className="text-secondary">approach </span>
       </h2>
-      <div className="flex gap-8 justify-center mt-20">
+      <div className="flex gap-8 justify-center mt-20 md:flex-row flex-col">
         <ApproachCard phase="1" />
 
         <ApproachCard

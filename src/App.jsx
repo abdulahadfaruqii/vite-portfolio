@@ -1,10 +1,7 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 import Navbar from "./component/Navbar";
 import ImgSection from "./screens/ImgSection";
-import ProjectCard from "./component/ProjectCard";
 import ProjectSection from "./screens/ProjectSection";
 import ClientReviewSection from "./screens/ClientReviewSection";
 import WorkExperienceSection from "./screens/WorkExperienceSection";
@@ -12,8 +9,6 @@ import MyApproach from "./screens/MyApproach";
 import NextLevel from "./screens/NextLevel";
 
 function App() {
-  const [count, setCount] = useState(0);
-  const recentProjects = [];
   return (
     <main>
       <div className="max-w-lg mx-auto">
@@ -24,7 +19,7 @@ function App() {
         Crafting Dynamic Web Solutions with Nextjs Expertise
       </h2>
 
-      <h1 className="text-white text-7xl font-bold mt-2">
+      <h1 className="text-white text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold mt-2 text-center leading-tight">
         Transforming Concepts into <br /> Seamless
         <span className="text-secondary"> User Experiences</span>
       </h1>
