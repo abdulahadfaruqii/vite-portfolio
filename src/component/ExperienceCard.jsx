@@ -5,7 +5,7 @@ function ExperienceCard() {
     <div className="bg-slate-900 border border-white/10 rounded-2xl p-4 w-140 flex gap-4 items-center">
       {/* Icon/Image */}
       <img
-        src="/public/frontend.png"
+        src="/frontend.png"
         alt="Frontend Icon"
         className="w-12 h-12 shrink-0 rounded-md"
       />

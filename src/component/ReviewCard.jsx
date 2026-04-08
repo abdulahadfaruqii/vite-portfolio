@@ -7,7 +7,7 @@ function ReviewCard({ message }) {
 
       <div className="flex items-start gap-2 min-w-0">
         <img
-          src="/public/laptop.png"
+          src="/laptop.png"
           alt=""
           className="border rounded-full w-10 h-10 "
         />

@@ -16,7 +16,7 @@ function Prioritize() {
       <div className="absolute inset-0 z-10">
                 
         <img
-          src={"../../public/laptop.png"}
+          src={"/laptop.png"}
           alt="laptop"
           className="object-cover object-top-right transition-transform duration-500 group-hover:scale-105 opacity-50 md:opacity-100"
         />
@@ -36,7 +36,7 @@ function Prioritize() {
       <div className="absolute bottom-4 right-4 md:bottom-12 md:right-12 w-20 h-20 md:w-40 md:h-40 z-20 pointer-events-none">
                 
         <img
-          src={"../../public/yellowBtn.png"}
+          src={"/yellowBtn.png"}
           alt="yellow-decoration"
           className="object-contain opacity-70 md:opacity-100"
         />

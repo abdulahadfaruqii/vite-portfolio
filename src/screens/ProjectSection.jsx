@@ -8,7 +8,7 @@ function ProjectSection() {
       title: "3D Solar System Planets to Explore",
       description:
         "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      image: "../../public/solarEarth.png",
+      image: "/solarEarth.png",
 
       liveLink: "https://example.com",
       techStack: [
@@ -23,7 +23,7 @@ function ProjectSection() {
       title: "Yoom - Video Conferencing App",
       description:
         "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      image: "../../public/Card.png",
+      image: "/Card.png",
       liveLink: "https://example.com",
       techStack: [
         { name: "React", icon: "/react.png" },
@@ -35,7 +35,7 @@ function ProjectSection() {
       title: "AI Image SaaS - Canva Application",
       description:
         "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      image: "../../public/Imaginify.png",
+      image: "/Imaginify.png",
 
       liveLink: "https://example.com",
       techStack: [
@@ -50,7 +50,7 @@ function ProjectSection() {
       title: "Animated Apple Iphone 3D Website",
       description:
         "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects.",
-      image: "../../public/titanium.png",
+      image: "/titanium.png",
 
       liveLink: "https://example.com",
       techStack: [
